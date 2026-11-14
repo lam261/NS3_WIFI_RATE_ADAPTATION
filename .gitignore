@@ -1,0 +1,12 @@
+# Local simulation output and build products
+.venv/
+__pycache__/
+*.py[cod]
+build/
+cmake-cache/
+reruns/
+*.pcap
+*.pcapng
+*.log
+*.tar.gz
+*.zip
