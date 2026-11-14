@@ -1,0 +1,6 @@
+distance_m,selected_fixed_mode,max_fixed_mean_mbps
+20,OfdmRate36Mbps,22.6772028
+35,OfdmRate36Mbps,22.6767492
+40,OfdmRate24Mbps,19.17783
+45,OfdmRate24Mbps,17.3786256
+50,OfdmRate18Mbps,14.9951844
